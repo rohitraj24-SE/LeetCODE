@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/40bytestar/LeetCODE/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/40bytestar/LeetCODE/tree/master/0069-sqrtx) |
 | [0202-happy-number](https://github.com/40bytestar/LeetCODE/tree/master/0202-happy-number) |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/40bytestar/LeetCODE/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Hash Table
 |  |
 | ------- |
@@ -92,4 +93,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/40bytestar/LeetCODE/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/40bytestar/LeetCODE/tree/master/0724-find-pivot-index) |
+## Number Theory
+|  |
+| ------- |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/40bytestar/LeetCODE/tree/master/3658-gcd-of-odd-and-even-sums) |
 <!---LeetCode Topics End-->
