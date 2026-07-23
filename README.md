@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/40bytestar/LeetCODE/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/40bytestar/LeetCODE/tree/master/0069-sqrtx) |
 | [0202-happy-number](https://github.com/40bytestar/LeetCODE/tree/master/0202-happy-number) |
+| [0415-add-strings](https://github.com/40bytestar/LeetCODE/tree/master/0415-add-strings) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/40bytestar/LeetCODE/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [3516-find-closest-person](https://github.com/40bytestar/LeetCODE/tree/master/3516-find-closest-person) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/40bytestar/LeetCODE/tree/master/3658-gcd-of-odd-and-even-sums) |
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/40bytestar/LeetCODE/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0067-add-binary](https://github.com/40bytestar/LeetCODE/tree/master/0067-add-binary) |
 | [0344-reverse-string](https://github.com/40bytestar/LeetCODE/tree/master/0344-reverse-string) |
+| [0415-add-strings](https://github.com/40bytestar/LeetCODE/tree/master/0415-add-strings) |
 | [0424-longest-repeating-character-replacement](https://github.com/40bytestar/LeetCODE/tree/master/0424-longest-repeating-character-replacement) |
 ## Two Pointers
 |  |
@@ -130,4 +132,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/40bytestar/LeetCODE/tree/master/0067-add-binary) |
+| [0415-add-strings](https://github.com/40bytestar/LeetCODE/tree/master/0415-add-strings) |
 <!---LeetCode Topics End-->
