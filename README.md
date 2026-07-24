@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/40bytestar/LeetCODE/tree/master/0066-plus-one) |
 | [0152-maximum-product-subarray](https://github.com/40bytestar/LeetCODE/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/40bytestar/LeetCODE/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0169-majority-element](https://github.com/40bytestar/LeetCODE/tree/master/0169-majority-element) |
 | [0287-find-the-duplicate-number](https://github.com/40bytestar/LeetCODE/tree/master/0287-find-the-duplicate-number) |
 | [0414-third-maximum-number](https://github.com/40bytestar/LeetCODE/tree/master/0414-third-maximum-number) |
 | [0525-contiguous-array](https://github.com/40bytestar/LeetCODE/tree/master/0525-contiguous-array) |
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/40bytestar/LeetCODE/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0141-linked-list-cycle](https://github.com/40bytestar/LeetCODE/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/40bytestar/LeetCODE/tree/master/0142-linked-list-cycle-ii) |
+| [0169-majority-element](https://github.com/40bytestar/LeetCODE/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/40bytestar/LeetCODE/tree/master/0202-happy-number) |
 | [0424-longest-repeating-character-replacement](https://github.com/40bytestar/LeetCODE/tree/master/0424-longest-repeating-character-replacement) |
 | [0525-contiguous-array](https://github.com/40bytestar/LeetCODE/tree/master/0525-contiguous-array) |
@@ -99,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/40bytestar/LeetCODE/tree/master/0169-majority-element) |
 | [0918-maximum-sum-circular-subarray](https://github.com/40bytestar/LeetCODE/tree/master/0918-maximum-sum-circular-subarray) |
 ## Queue
 |  |
@@ -123,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/40bytestar/LeetCODE/tree/master/0056-merge-intervals) |
+| [0169-majority-element](https://github.com/40bytestar/LeetCODE/tree/master/0169-majority-element) |
 | [0414-third-maximum-number](https://github.com/40bytestar/LeetCODE/tree/master/0414-third-maximum-number) |
 ## Sweep Line
 |  |
@@ -133,4 +137,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0067-add-binary](https://github.com/40bytestar/LeetCODE/tree/master/0067-add-binary) |
 | [0415-add-strings](https://github.com/40bytestar/LeetCODE/tree/master/0415-add-strings) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/40bytestar/LeetCODE/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
