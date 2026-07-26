@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0152-maximum-product-subarray](https://github.com/40bytestar/LeetCODE/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/40bytestar/LeetCODE/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0169-majority-element](https://github.com/40bytestar/LeetCODE/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/40bytestar/LeetCODE/tree/master/0217-contains-duplicate) |
 | [0287-find-the-duplicate-number](https://github.com/40bytestar/LeetCODE/tree/master/0287-find-the-duplicate-number) |
 | [0414-third-maximum-number](https://github.com/40bytestar/LeetCODE/tree/master/0414-third-maximum-number) |
 | [0525-contiguous-array](https://github.com/40bytestar/LeetCODE/tree/master/0525-contiguous-array) |
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/40bytestar/LeetCODE/tree/master/0142-linked-list-cycle-ii) |
 | [0169-majority-element](https://github.com/40bytestar/LeetCODE/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/40bytestar/LeetCODE/tree/master/0202-happy-number) |
+| [0217-contains-duplicate](https://github.com/40bytestar/LeetCODE/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/40bytestar/LeetCODE/tree/master/0242-valid-anagram) |
 | [0424-longest-repeating-character-replacement](https://github.com/40bytestar/LeetCODE/tree/master/0424-longest-repeating-character-replacement) |
 | [0525-contiguous-array](https://github.com/40bytestar/LeetCODE/tree/master/0525-contiguous-array) |
@@ -133,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0056-merge-intervals](https://github.com/40bytestar/LeetCODE/tree/master/0056-merge-intervals) |
 | [0169-majority-element](https://github.com/40bytestar/LeetCODE/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/40bytestar/LeetCODE/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/40bytestar/LeetCODE/tree/master/0242-valid-anagram) |
 | [0414-third-maximum-number](https://github.com/40bytestar/LeetCODE/tree/master/0414-third-maximum-number) |
 ## Sweep Line
