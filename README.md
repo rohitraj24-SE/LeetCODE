@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0974-subarray-sums-divisible-by-k](https://github.com/40bytestar/LeetCODE/tree/master/0974-subarray-sums-divisible-by-k) |
 | [0986-interval-list-intersections](https://github.com/40bytestar/LeetCODE/tree/master/0986-interval-list-intersections) |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/40bytestar/LeetCODE/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
+| [1748-sum-of-unique-elements](https://github.com/40bytestar/LeetCODE/tree/master/1748-sum-of-unique-elements) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/40bytestar/LeetCODE/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 ## Math
 |  |
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/40bytestar/LeetCODE/tree/master/0560-subarray-sum-equals-k) |
 | [0904-fruit-into-baskets](https://github.com/40bytestar/LeetCODE/tree/master/0904-fruit-into-baskets) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/40bytestar/LeetCODE/tree/master/0974-subarray-sums-divisible-by-k) |
+| [1748-sum-of-unique-elements](https://github.com/40bytestar/LeetCODE/tree/master/1748-sum-of-unique-elements) |
 ## Sliding Window
 |  |
 | ------- |
@@ -155,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/40bytestar/LeetCODE/tree/master/0169-majority-element) |
+| [1748-sum-of-unique-elements](https://github.com/40bytestar/LeetCODE/tree/master/1748-sum-of-unique-elements) |
 ## Stack
 |  |
 | ------- |
