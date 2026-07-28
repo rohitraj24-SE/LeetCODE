@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/40bytestar/LeetCODE/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/40bytestar/LeetCODE/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/40bytestar/LeetCODE/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/40bytestar/LeetCODE/tree/master/0069-sqrtx) |
@@ -166,4 +167,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0503-next-greater-element-ii](https://github.com/40bytestar/LeetCODE/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/40bytestar/LeetCODE/tree/master/0739-daily-temperatures) |
+## Recursion
+|  |
+| ------- |
+| [0050-powx-n](https://github.com/40bytestar/LeetCODE/tree/master/0050-powx-n) |
 <!---LeetCode Topics End-->
