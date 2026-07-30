@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/40bytestar/LeetCODE/tree/master/0069-sqrtx) |
 | [0202-happy-number](https://github.com/40bytestar/LeetCODE/tree/master/0202-happy-number) |
 | [0326-power-of-three](https://github.com/40bytestar/LeetCODE/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/40bytestar/LeetCODE/tree/master/0342-power-of-four) |
 | [0415-add-strings](https://github.com/40bytestar/LeetCODE/tree/master/0415-add-strings) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/40bytestar/LeetCODE/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [3516-find-closest-person](https://github.com/40bytestar/LeetCODE/tree/master/3516-find-closest-person) |
@@ -100,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0067-add-binary](https://github.com/40bytestar/LeetCODE/tree/master/0067-add-binary) |
 | [0287-find-the-duplicate-number](https://github.com/40bytestar/LeetCODE/tree/master/0287-find-the-duplicate-number) |
+| [0342-power-of-four](https://github.com/40bytestar/LeetCODE/tree/master/0342-power-of-four) |
 ## Linked List
 |  |
 | ------- |
@@ -179,4 +181,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0050-powx-n](https://github.com/40bytestar/LeetCODE/tree/master/0050-powx-n) |
 | [0326-power-of-three](https://github.com/40bytestar/LeetCODE/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/40bytestar/LeetCODE/tree/master/0342-power-of-four) |
 <!---LeetCode Topics End-->
