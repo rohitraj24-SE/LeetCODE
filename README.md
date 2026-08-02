@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/40bytestar/LeetCODE/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/40bytestar/LeetCODE/tree/master/0724-find-pivot-index) |
 | [0739-daily-temperatures](https://github.com/40bytestar/LeetCODE/tree/master/0739-daily-temperatures) |
+| [0877-stone-game](https://github.com/40bytestar/LeetCODE/tree/master/0877-stone-game) |
 | [0904-fruit-into-baskets](https://github.com/40bytestar/LeetCODE/tree/master/0904-fruit-into-baskets) |
 | [0918-maximum-sum-circular-subarray](https://github.com/40bytestar/LeetCODE/tree/master/0918-maximum-sum-circular-subarray) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/40bytestar/LeetCODE/tree/master/0974-subarray-sums-divisible-by-k) |
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0326-power-of-three](https://github.com/40bytestar/LeetCODE/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/40bytestar/LeetCODE/tree/master/0342-power-of-four) |
 | [0415-add-strings](https://github.com/40bytestar/LeetCODE/tree/master/0415-add-strings) |
+| [0877-stone-game](https://github.com/40bytestar/LeetCODE/tree/master/0877-stone-game) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/40bytestar/LeetCODE/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/40bytestar/LeetCODE/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3516-find-closest-person](https://github.com/40bytestar/LeetCODE/tree/master/3516-find-closest-person) |
@@ -118,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0152-maximum-product-subarray](https://github.com/40bytestar/LeetCODE/tree/master/0152-maximum-product-subarray) |
+| [0877-stone-game](https://github.com/40bytestar/LeetCODE/tree/master/0877-stone-game) |
 | [0918-maximum-sum-circular-subarray](https://github.com/40bytestar/LeetCODE/tree/master/0918-maximum-sum-circular-subarray) |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/40bytestar/LeetCODE/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/40bytestar/LeetCODE/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
@@ -194,4 +197,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/40bytestar/LeetCODE/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+## Game Theory
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/40bytestar/LeetCODE/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->
