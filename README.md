@@ -119,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0083-remove-duplicates-from-sorted-list](https://github.com/40bytestar/LeetCODE/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0141-linked-list-cycle](https://github.com/40bytestar/LeetCODE/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/40bytestar/LeetCODE/tree/master/0142-linked-list-cycle-ii) |
+| [0206-reverse-linked-list](https://github.com/40bytestar/LeetCODE/tree/master/0206-reverse-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/40bytestar/LeetCODE/tree/master/0876-middle-of-the-linked-list) |
 ## Dynamic Programming
 |  |
@@ -196,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/40bytestar/LeetCODE/tree/master/0050-powx-n) |
+| [0206-reverse-linked-list](https://github.com/40bytestar/LeetCODE/tree/master/0206-reverse-linked-list) |
 | [0326-power-of-three](https://github.com/40bytestar/LeetCODE/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/40bytestar/LeetCODE/tree/master/0342-power-of-four) |
 ## Greedy
