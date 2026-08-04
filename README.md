@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/40bytestar/LeetCODE/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
 | [1748-sum-of-unique-elements](https://github.com/40bytestar/LeetCODE/tree/master/1748-sum-of-unique-elements) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/40bytestar/LeetCODE/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
+| [3731-find-missing-elements](https://github.com/40bytestar/LeetCODE/tree/master/3731-find-missing-elements) |
 ## Math
 |  |
 | ------- |
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0974-subarray-sums-divisible-by-k](https://github.com/40bytestar/LeetCODE/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1189-maximum-number-of-balloons](https://github.com/40bytestar/LeetCODE/tree/master/1189-maximum-number-of-balloons) |
 | [1748-sum-of-unique-elements](https://github.com/40bytestar/LeetCODE/tree/master/1748-sum-of-unique-elements) |
+| [3731-find-missing-elements](https://github.com/40bytestar/LeetCODE/tree/master/3731-find-missing-elements) |
 ## Sliding Window
 |  |
 | ------- |
@@ -164,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/40bytestar/LeetCODE/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/40bytestar/LeetCODE/tree/master/0242-valid-anagram) |
 | [0414-third-maximum-number](https://github.com/40bytestar/LeetCODE/tree/master/0414-third-maximum-number) |
+| [3731-find-missing-elements](https://github.com/40bytestar/LeetCODE/tree/master/3731-find-missing-elements) |
 ## Sweep Line
 |  |
 | ------- |
