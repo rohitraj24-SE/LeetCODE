@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/40bytestar/LeetCODE/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/40bytestar/LeetCODE/tree/master/0057-insert-interval) |
 | [0066-plus-one](https://github.com/40bytestar/LeetCODE/tree/master/0066-plus-one) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/40bytestar/LeetCODE/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/40bytestar/LeetCODE/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/40bytestar/LeetCODE/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0169-majority-element](https://github.com/40bytestar/LeetCODE/tree/master/0169-majority-element) |
@@ -127,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/40bytestar/LeetCODE/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/40bytestar/LeetCODE/tree/master/0152-maximum-product-subarray) |
 | [0877-stone-game](https://github.com/40bytestar/LeetCODE/tree/master/0877-stone-game) |
 | [0918-maximum-sum-circular-subarray](https://github.com/40bytestar/LeetCODE/tree/master/0918-maximum-sum-circular-subarray) |
