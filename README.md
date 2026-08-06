@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/40bytestar/LeetCODE/tree/master/0877-stone-game) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/40bytestar/LeetCODE/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/40bytestar/LeetCODE/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+| [3345-smallest-divisible-digit-product-i](https://github.com/40bytestar/LeetCODE/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3516-find-closest-person](https://github.com/40bytestar/LeetCODE/tree/master/3516-find-closest-person) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/40bytestar/LeetCODE/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Hash Table
@@ -215,4 +216,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0877-stone-game](https://github.com/40bytestar/LeetCODE/tree/master/0877-stone-game) |
+## Enumeration
+|  |
+| ------- |
+| [3345-smallest-divisible-digit-product-i](https://github.com/40bytestar/LeetCODE/tree/master/3345-smallest-divisible-digit-product-i) |
 <!---LeetCode Topics End-->
