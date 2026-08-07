@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/40bytestar/LeetCODE/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0169-majority-element](https://github.com/40bytestar/LeetCODE/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/40bytestar/LeetCODE/tree/master/0217-contains-duplicate) |
+| [0219-contains-duplicate-ii](https://github.com/40bytestar/LeetCODE/tree/master/0219-contains-duplicate-ii) |
 | [0287-find-the-duplicate-number](https://github.com/40bytestar/LeetCODE/tree/master/0287-find-the-duplicate-number) |
 | [0414-third-maximum-number](https://github.com/40bytestar/LeetCODE/tree/master/0414-third-maximum-number) |
 | [0503-next-greater-element-ii](https://github.com/40bytestar/LeetCODE/tree/master/0503-next-greater-element-ii) |
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/40bytestar/LeetCODE/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/40bytestar/LeetCODE/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/40bytestar/LeetCODE/tree/master/0217-contains-duplicate) |
+| [0219-contains-duplicate-ii](https://github.com/40bytestar/LeetCODE/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/40bytestar/LeetCODE/tree/master/0242-valid-anagram) |
 | [0383-ransom-note](https://github.com/40bytestar/LeetCODE/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/40bytestar/LeetCODE/tree/master/0387-first-unique-character-in-a-string) |
@@ -76,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/40bytestar/LeetCODE/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0219-contains-duplicate-ii](https://github.com/40bytestar/LeetCODE/tree/master/0219-contains-duplicate-ii) |
 | [0424-longest-repeating-character-replacement](https://github.com/40bytestar/LeetCODE/tree/master/0424-longest-repeating-character-replacement) |
 | [0904-fruit-into-baskets](https://github.com/40bytestar/LeetCODE/tree/master/0904-fruit-into-baskets) |
 ## String
