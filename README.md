@@ -124,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0024-swap-nodes-in-pairs](https://github.com/40bytestar/LeetCODE/tree/master/0024-swap-nodes-in-pairs) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/40bytestar/LeetCODE/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0092-reverse-linked-list-ii](https://github.com/40bytestar/LeetCODE/tree/master/0092-reverse-linked-list-ii) |
 | [0141-linked-list-cycle](https://github.com/40bytestar/LeetCODE/tree/master/0141-linked-list-cycle) |
@@ -207,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0024-swap-nodes-in-pairs](https://github.com/40bytestar/LeetCODE/tree/master/0024-swap-nodes-in-pairs) |
 | [0050-powx-n](https://github.com/40bytestar/LeetCODE/tree/master/0050-powx-n) |
 | [0206-reverse-linked-list](https://github.com/40bytestar/LeetCODE/tree/master/0206-reverse-linked-list) |
 | [0326-power-of-three](https://github.com/40bytestar/LeetCODE/tree/master/0326-power-of-three) |
