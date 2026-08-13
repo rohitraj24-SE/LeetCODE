@@ -2,14 +2,18 @@ class Solution {
 public:
     int peakIndexInMountainArray(vector<int>& arr) {
         int n=arr.size();
-        int largest=arr[0];
-        int index=0;
-        for(int i=1;i<n-1;i++){
-            if(arr[i]>largest){
-                largest=arr[i];
-                index=i;
+        int low=0,high=n-1;
+        int first=-1;
+        while(low<=high){
+            int mid=(low+high)/2;
+            if(arr[mid]<arr[mid+1]){
+                low=mid+1;
+            }
+            else{
+                first=mid;
+                high=mid-1;
             }
         }
-    return index;    
+        return first;   
     }
 };
