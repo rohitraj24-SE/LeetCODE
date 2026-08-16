@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/40bytestar/LeetCODE/tree/master/0242-valid-anagram) |
 | [0383-ransom-note](https://github.com/40bytestar/LeetCODE/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/40bytestar/LeetCODE/tree/master/0387-first-unique-character-in-a-string) |
+| [0389-find-the-difference](https://github.com/40bytestar/LeetCODE/tree/master/0389-find-the-difference) |
 | [0409-longest-palindrome](https://github.com/40bytestar/LeetCODE/tree/master/0409-longest-palindrome) |
 | [0424-longest-repeating-character-replacement](https://github.com/40bytestar/LeetCODE/tree/master/0424-longest-repeating-character-replacement) |
 | [0525-contiguous-array](https://github.com/40bytestar/LeetCODE/tree/master/0525-contiguous-array) |
@@ -96,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/40bytestar/LeetCODE/tree/master/0344-reverse-string) |
 | [0383-ransom-note](https://github.com/40bytestar/LeetCODE/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/40bytestar/LeetCODE/tree/master/0387-first-unique-character-in-a-string) |
+| [0389-find-the-difference](https://github.com/40bytestar/LeetCODE/tree/master/0389-find-the-difference) |
 | [0409-longest-palindrome](https://github.com/40bytestar/LeetCODE/tree/master/0409-longest-palindrome) |
 | [0415-add-strings](https://github.com/40bytestar/LeetCODE/tree/master/0415-add-strings) |
 | [0424-longest-repeating-character-replacement](https://github.com/40bytestar/LeetCODE/tree/master/0424-longest-repeating-character-replacement) |
@@ -130,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/40bytestar/LeetCODE/tree/master/0067-add-binary) |
 | [0287-find-the-duplicate-number](https://github.com/40bytestar/LeetCODE/tree/master/0287-find-the-duplicate-number) |
 | [0342-power-of-four](https://github.com/40bytestar/LeetCODE/tree/master/0342-power-of-four) |
+| [0389-find-the-difference](https://github.com/40bytestar/LeetCODE/tree/master/0389-find-the-difference) |
 ## Linked List
 |  |
 | ------- |
@@ -184,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/40bytestar/LeetCODE/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/40bytestar/LeetCODE/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/40bytestar/LeetCODE/tree/master/0242-valid-anagram) |
+| [0389-find-the-difference](https://github.com/40bytestar/LeetCODE/tree/master/0389-find-the-difference) |
 | [0414-third-maximum-number](https://github.com/40bytestar/LeetCODE/tree/master/0414-third-maximum-number) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/40bytestar/LeetCODE/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3731-find-missing-elements](https://github.com/40bytestar/LeetCODE/tree/master/3731-find-missing-elements) |
