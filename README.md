@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/40bytestar/LeetCODE/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/40bytestar/LeetCODE/tree/master/0219-contains-duplicate-ii) |
 | [0287-find-the-duplicate-number](https://github.com/40bytestar/LeetCODE/tree/master/0287-find-the-duplicate-number) |
+| [0410-split-array-largest-sum](https://github.com/40bytestar/LeetCODE/tree/master/0410-split-array-largest-sum) |
 | [0414-third-maximum-number](https://github.com/40bytestar/LeetCODE/tree/master/0414-third-maximum-number) |
 | [0503-next-greater-element-ii](https://github.com/40bytestar/LeetCODE/tree/master/0503-next-greater-element-ii) |
 | [0525-contiguous-array](https://github.com/40bytestar/LeetCODE/tree/master/0525-contiguous-array) |
@@ -129,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/40bytestar/LeetCODE/tree/master/0069-sqrtx) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/40bytestar/LeetCODE/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0287-find-the-duplicate-number](https://github.com/40bytestar/LeetCODE/tree/master/0287-find-the-duplicate-number) |
+| [0410-split-array-largest-sum](https://github.com/40bytestar/LeetCODE/tree/master/0410-split-array-largest-sum) |
 | [0704-binary-search](https://github.com/40bytestar/LeetCODE/tree/master/0704-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/40bytestar/LeetCODE/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0875-koko-eating-bananas](https://github.com/40bytestar/LeetCODE/tree/master/0875-koko-eating-bananas) |
@@ -157,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/40bytestar/LeetCODE/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/40bytestar/LeetCODE/tree/master/0152-maximum-product-subarray) |
+| [0410-split-array-largest-sum](https://github.com/40bytestar/LeetCODE/tree/master/0410-split-array-largest-sum) |
 | [0877-stone-game](https://github.com/40bytestar/LeetCODE/tree/master/0877-stone-game) |
 | [0918-maximum-sum-circular-subarray](https://github.com/40bytestar/LeetCODE/tree/master/0918-maximum-sum-circular-subarray) |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/40bytestar/LeetCODE/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
@@ -179,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0410-split-array-largest-sum](https://github.com/40bytestar/LeetCODE/tree/master/0410-split-array-largest-sum) |
 | [0525-contiguous-array](https://github.com/40bytestar/LeetCODE/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/40bytestar/LeetCODE/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/40bytestar/LeetCODE/tree/master/0724-find-pivot-index) |
@@ -242,6 +246,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0409-longest-palindrome](https://github.com/40bytestar/LeetCODE/tree/master/0409-longest-palindrome) |
+| [0410-split-array-largest-sum](https://github.com/40bytestar/LeetCODE/tree/master/0410-split-array-largest-sum) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/40bytestar/LeetCODE/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 ## Game Theory
 |  |
