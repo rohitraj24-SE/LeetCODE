@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/40bytestar/LeetCODE/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/40bytestar/LeetCODE/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3516-find-closest-person](https://github.com/40bytestar/LeetCODE/tree/master/3516-find-closest-person) |
+| [3622-check-divisibility-by-digit-sum-and-product](https://github.com/40bytestar/LeetCODE/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/40bytestar/LeetCODE/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Hash Table
 |  |
