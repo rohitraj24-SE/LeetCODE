@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/40bytestar/LeetCODE/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/40bytestar/LeetCODE/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/40bytestar/LeetCODE/tree/master/0219-contains-duplicate-ii) |
+| [0240-search-a-2d-matrix-ii](https://github.com/40bytestar/LeetCODE/tree/master/0240-search-a-2d-matrix-ii) |
 | [0287-find-the-duplicate-number](https://github.com/40bytestar/LeetCODE/tree/master/0287-find-the-duplicate-number) |
 | [0410-split-array-largest-sum](https://github.com/40bytestar/LeetCODE/tree/master/0410-split-array-largest-sum) |
 | [0414-third-maximum-number](https://github.com/40bytestar/LeetCODE/tree/master/0414-third-maximum-number) |
@@ -131,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/40bytestar/LeetCODE/tree/master/0069-sqrtx) |
 | [0074-search-a-2d-matrix](https://github.com/40bytestar/LeetCODE/tree/master/0074-search-a-2d-matrix) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/40bytestar/LeetCODE/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0240-search-a-2d-matrix-ii](https://github.com/40bytestar/LeetCODE/tree/master/0240-search-a-2d-matrix-ii) |
 | [0287-find-the-duplicate-number](https://github.com/40bytestar/LeetCODE/tree/master/0287-find-the-duplicate-number) |
 | [0410-split-array-largest-sum](https://github.com/40bytestar/LeetCODE/tree/master/0410-split-array-largest-sum) |
 | [0704-binary-search](https://github.com/40bytestar/LeetCODE/tree/master/0704-binary-search) |
@@ -171,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/40bytestar/LeetCODE/tree/master/0004-median-of-two-sorted-arrays) |
 | [0169-majority-element](https://github.com/40bytestar/LeetCODE/tree/master/0169-majority-element) |
+| [0240-search-a-2d-matrix-ii](https://github.com/40bytestar/LeetCODE/tree/master/0240-search-a-2d-matrix-ii) |
 | [0918-maximum-sum-circular-subarray](https://github.com/40bytestar/LeetCODE/tree/master/0918-maximum-sum-circular-subarray) |
 ## Queue
 |  |
@@ -266,4 +269,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/40bytestar/LeetCODE/tree/master/0074-search-a-2d-matrix) |
+| [0240-search-a-2d-matrix-ii](https://github.com/40bytestar/LeetCODE/tree/master/0240-search-a-2d-matrix-ii) |
 <!---LeetCode Topics End-->
