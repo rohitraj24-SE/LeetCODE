@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0503-next-greater-element-ii](https://github.com/40bytestar/LeetCODE/tree/master/0503-next-greater-element-ii) |
 | [0525-contiguous-array](https://github.com/40bytestar/LeetCODE/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/40bytestar/LeetCODE/tree/master/0560-subarray-sum-equals-k) |
+| [0692-top-k-frequent-words](https://github.com/40bytestar/LeetCODE/tree/master/0692-top-k-frequent-words) |
 | [0704-binary-search](https://github.com/40bytestar/LeetCODE/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/40bytestar/LeetCODE/tree/master/0724-find-pivot-index) |
 | [0739-daily-temperatures](https://github.com/40bytestar/LeetCODE/tree/master/0739-daily-temperatures) |
@@ -90,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/40bytestar/LeetCODE/tree/master/0424-longest-repeating-character-replacement) |
 | [0525-contiguous-array](https://github.com/40bytestar/LeetCODE/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/40bytestar/LeetCODE/tree/master/0560-subarray-sum-equals-k) |
+| [0692-top-k-frequent-words](https://github.com/40bytestar/LeetCODE/tree/master/0692-top-k-frequent-words) |
 | [0904-fruit-into-baskets](https://github.com/40bytestar/LeetCODE/tree/master/0904-fruit-into-baskets) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/40bytestar/LeetCODE/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/40bytestar/LeetCODE/tree/master/0974-subarray-sums-divisible-by-k) |
@@ -120,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0409-longest-palindrome](https://github.com/40bytestar/LeetCODE/tree/master/0409-longest-palindrome) |
 | [0415-add-strings](https://github.com/40bytestar/LeetCODE/tree/master/0415-add-strings) |
 | [0424-longest-repeating-character-replacement](https://github.com/40bytestar/LeetCODE/tree/master/0424-longest-repeating-character-replacement) |
+| [0692-top-k-frequent-words](https://github.com/40bytestar/LeetCODE/tree/master/0692-top-k-frequent-words) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/40bytestar/LeetCODE/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1189-maximum-number-of-balloons](https://github.com/40bytestar/LeetCODE/tree/master/1189-maximum-number-of-balloons) |
 | [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/40bytestar/LeetCODE/tree/master/1209-remove-all-adjacent-duplicates-in-string-ii) |
@@ -223,6 +226,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/40bytestar/LeetCODE/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0389-find-the-difference](https://github.com/40bytestar/LeetCODE/tree/master/0389-find-the-difference) |
 | [0414-third-maximum-number](https://github.com/40bytestar/LeetCODE/tree/master/0414-third-maximum-number) |
+| [0692-top-k-frequent-words](https://github.com/40bytestar/LeetCODE/tree/master/0692-top-k-frequent-words) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/40bytestar/LeetCODE/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3731-find-missing-elements](https://github.com/40bytestar/LeetCODE/tree/master/3731-find-missing-elements) |
 ## Sweep Line
@@ -242,6 +246,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/40bytestar/LeetCODE/tree/master/0347-top-k-frequent-elements) |
 | [0383-ransom-note](https://github.com/40bytestar/LeetCODE/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/40bytestar/LeetCODE/tree/master/0387-first-unique-character-in-a-string) |
+| [0692-top-k-frequent-words](https://github.com/40bytestar/LeetCODE/tree/master/0692-top-k-frequent-words) |
 | [1189-maximum-number-of-balloons](https://github.com/40bytestar/LeetCODE/tree/master/1189-maximum-number-of-balloons) |
 | [1748-sum-of-unique-elements](https://github.com/40bytestar/LeetCODE/tree/master/1748-sum-of-unique-elements) |
 ## Stack
@@ -296,6 +301,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/40bytestar/LeetCODE/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/40bytestar/LeetCODE/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/40bytestar/LeetCODE/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0692-top-k-frequent-words](https://github.com/40bytestar/LeetCODE/tree/master/0692-top-k-frequent-words) |
 ## Pigeonhole Principle
 |  |
 | ------- |
@@ -309,4 +315,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/40bytestar/LeetCODE/tree/master/0347-top-k-frequent-elements) |
+| [0692-top-k-frequent-words](https://github.com/40bytestar/LeetCODE/tree/master/0692-top-k-frequent-words) |
+## Trie
+|  |
+| ------- |
+| [0692-top-k-frequent-words](https://github.com/40bytestar/LeetCODE/tree/master/0692-top-k-frequent-words) |
 <!---LeetCode Topics End-->
