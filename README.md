@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/40bytestar/LeetCODE/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
 | [1748-sum-of-unique-elements](https://github.com/40bytestar/LeetCODE/tree/master/1748-sum-of-unique-elements) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/40bytestar/LeetCODE/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
+| [1929-concatenation-of-array](https://github.com/40bytestar/LeetCODE/tree/master/1929-concatenation-of-array) |
 | [2226-maximum-candies-allocated-to-k-children](https://github.com/40bytestar/LeetCODE/tree/master/2226-maximum-candies-allocated-to-k-children) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/40bytestar/LeetCODE/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/40bytestar/LeetCODE/tree/master/3069-distribute-elements-into-two-arrays-i) |
@@ -238,6 +239,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0067-add-binary](https://github.com/40bytestar/LeetCODE/tree/master/0067-add-binary) |
 | [0415-add-strings](https://github.com/40bytestar/LeetCODE/tree/master/0415-add-strings) |
+| [1929-concatenation-of-array](https://github.com/40bytestar/LeetCODE/tree/master/1929-concatenation-of-array) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/40bytestar/LeetCODE/tree/master/3069-distribute-elements-into-two-arrays-i) |
 ## Counting
 |  |
