@@ -131,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0409-longest-palindrome](https://github.com/40bytestar/LeetCODE/tree/master/0409-longest-palindrome) |
 | [0415-add-strings](https://github.com/40bytestar/LeetCODE/tree/master/0415-add-strings) |
 | [0424-longest-repeating-character-replacement](https://github.com/40bytestar/LeetCODE/tree/master/0424-longest-repeating-character-replacement) |
+| [0678-valid-parenthesis-string](https://github.com/40bytestar/LeetCODE/tree/master/0678-valid-parenthesis-string) |
 | [0692-top-k-frequent-words](https://github.com/40bytestar/LeetCODE/tree/master/0692-top-k-frequent-words) |
 | [0767-reorganize-string](https://github.com/40bytestar/LeetCODE/tree/master/0767-reorganize-string) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/40bytestar/LeetCODE/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
@@ -193,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0152-maximum-product-subarray](https://github.com/40bytestar/LeetCODE/tree/master/0152-maximum-product-subarray) |
 | [0410-split-array-largest-sum](https://github.com/40bytestar/LeetCODE/tree/master/0410-split-array-largest-sum) |
 | [0509-fibonacci-number](https://github.com/40bytestar/LeetCODE/tree/master/0509-fibonacci-number) |
+| [0678-valid-parenthesis-string](https://github.com/40bytestar/LeetCODE/tree/master/0678-valid-parenthesis-string) |
 | [0877-stone-game](https://github.com/40bytestar/LeetCODE/tree/master/0877-stone-game) |
 | [0918-maximum-sum-circular-subarray](https://github.com/40bytestar/LeetCODE/tree/master/0918-maximum-sum-circular-subarray) |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/40bytestar/LeetCODE/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
@@ -270,6 +272,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/40bytestar/LeetCODE/tree/master/0020-valid-parentheses) |
 | [0503-next-greater-element-ii](https://github.com/40bytestar/LeetCODE/tree/master/0503-next-greater-element-ii) |
+| [0678-valid-parenthesis-string](https://github.com/40bytestar/LeetCODE/tree/master/0678-valid-parenthesis-string) |
 | [0739-daily-temperatures](https://github.com/40bytestar/LeetCODE/tree/master/0739-daily-temperatures) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/40bytestar/LeetCODE/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/40bytestar/LeetCODE/tree/master/1209-remove-all-adjacent-duplicates-in-string-ii) |
@@ -294,6 +297,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0409-longest-palindrome](https://github.com/40bytestar/LeetCODE/tree/master/0409-longest-palindrome) |
 | [0410-split-array-largest-sum](https://github.com/40bytestar/LeetCODE/tree/master/0410-split-array-largest-sum) |
+| [0678-valid-parenthesis-string](https://github.com/40bytestar/LeetCODE/tree/master/0678-valid-parenthesis-string) |
 | [0767-reorganize-string](https://github.com/40bytestar/LeetCODE/tree/master/0767-reorganize-string) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/40bytestar/LeetCODE/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 ## Game Theory
@@ -348,6 +352,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/40bytestar/LeetCODE/tree/master/0022-generate-parentheses) |
+| [0678-valid-parenthesis-string](https://github.com/40bytestar/LeetCODE/tree/master/0678-valid-parenthesis-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/40bytestar/LeetCODE/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Backtracking
 |  |
