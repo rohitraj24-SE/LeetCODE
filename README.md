@@ -276,6 +276,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/40bytestar/LeetCODE/tree/master/0020-valid-parentheses) |
+| [0144-binary-tree-preorder-traversal](https://github.com/40bytestar/LeetCODE/tree/master/0144-binary-tree-preorder-traversal) |
 | [0503-next-greater-element-ii](https://github.com/40bytestar/LeetCODE/tree/master/0503-next-greater-element-ii) |
 | [0678-valid-parenthesis-string](https://github.com/40bytestar/LeetCODE/tree/master/0678-valid-parenthesis-string) |
 | [0739-daily-temperatures](https://github.com/40bytestar/LeetCODE/tree/master/0739-daily-temperatures) |
@@ -370,4 +371,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/40bytestar/LeetCODE/tree/master/0022-generate-parentheses) |
 | [0039-combination-sum](https://github.com/40bytestar/LeetCODE/tree/master/0039-combination-sum) |
 | [0131-palindrome-partitioning](https://github.com/40bytestar/LeetCODE/tree/master/0131-palindrome-partitioning) |
+## Tree
+|  |
+| ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/40bytestar/LeetCODE/tree/master/0144-binary-tree-preorder-traversal) |
+## Depth-First Search
+|  |
+| ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/40bytestar/LeetCODE/tree/master/0144-binary-tree-preorder-traversal) |
+## Binary Tree
+|  |
+| ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/40bytestar/LeetCODE/tree/master/0144-binary-tree-preorder-traversal) |
 <!---LeetCode Topics End-->
