@@ -20,6 +20,8 @@ public:
         return false;
         bool noFlip=flipEquiv(root1->left,root2->left)&&flipEquiv(root1->right,root2->right);
         bool flip=flipEquiv(root1->left,root2->right)&&flipEquiv(root1->right,root2->left);
-        return noFlip || flip;
+        if(noFlip==true||flip==true)
+        return true;
+    return false;
     }
 };
